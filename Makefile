@@ -11,3 +11,6 @@ euler.o : euler.c euler.h
 
 clean: 
 	-rm *.o
+
+run: 
+	./main
